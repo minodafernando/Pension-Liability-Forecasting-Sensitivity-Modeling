@@ -4,7 +4,7 @@ This project simulates a defined benefit pension plan and analyzes how total lia
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - **Defined Benefit Modeling**: Calculated annual pension payouts using salary, years of service, and a fixed multiplier
 - **Present Value Forecasting**: Applied annuity formulas with variable discount rates (3%–6%) and retirement ages (62, 65, 68)
@@ -13,7 +13,7 @@ This project simulates a defined benefit pension plan and analyzes how total lia
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 - **Pension Liability Distribution by Employee Decile**  
   ![Liability by Decile](./pension-liability-decile.png)
@@ -32,14 +32,14 @@ This project simulates a defined benefit pension plan and analyzes how total lia
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 - Excel (data tables, PV formulas, charts)
 - Annuity Present Value Calculations
 - Structured modeling using assumptions and scenario testing
 
 ---
 
-## 📌 Outcomes
+## Outcomes
 - Automated liability forecasting across 12 scenarios
 - Identified up to 33% swing in total liabilities based on rate and age inputs
 - Created reporting-style visuals for executive-level interpretation
